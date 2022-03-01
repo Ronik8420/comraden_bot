@@ -9,7 +9,10 @@ const commands = {
         response: 'Telegram channel - https://t.me/+kI-TFIPbOesyMDhi'
     },
     ktowho: {
-        response: ''
+        response: 'AYAYA'
+    },
+    testo: {
+        response: 'Рассыпчатое'
     }
 }
 
