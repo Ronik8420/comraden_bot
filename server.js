@@ -11,9 +11,6 @@ const commands = {
     ktowho: {
         response: 'AYAYA'
     },
-    testo: {
-        response: 'Рассыпчатое'
-    }
 }
 
 const client = new tmi.Client({
