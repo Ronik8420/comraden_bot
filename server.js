@@ -8,9 +8,6 @@ const commands = {
     telegram: {
         response: 'KKomrade Telegram channel - https://t.me/+kI-TFIPbOesyMDhi KKomrade'
     },
-    ktowho: {
-        response: 'AYAYA'
-    },
     chatex :{
         response: 'KKomrade Extension for emotes - https://chrome.google.com/webstore/detail/7tv/ammjkodgmmoknidbanneddgankgfejfh KKomrade '
     },
