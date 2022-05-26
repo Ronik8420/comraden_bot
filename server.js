@@ -6,10 +6,13 @@ const regexpCommand = new RegExp(/^!([a-zA-Z0-9]+)(?:\W+)?(.*)?/);
 
 const commands = {
     telegram: {
-        response: 'Telegram channel - https://t.me/+kI-TFIPbOesyMDhi'
+        response: 'KKomrade Telegram channel - https://t.me/+kI-TFIPbOesyMDhi KKomrade'
     },
     ktowho: {
         response: 'AYAYA'
+    },
+    chatex :{
+        response: 'KKomrade Extension for emotes - https://chrome.google.com/webstore/detail/7tv/ammjkodgmmoknidbanneddgankgfejfh KKomrade '
     },
 }
 
